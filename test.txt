@@ -3,3 +3,4 @@ Hello Git! 123
 New line
 Add new line.
 lalala
+One more string before rebase
