@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Hello kkk
 Another change from DEV simultaniously
+=======
+Hello kkk from master
+>>>>>>> 7abaa53... Change from master
