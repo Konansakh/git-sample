@@ -1,3 +1,4 @@
+String from local after remote changes.
 Branch
 Hello Git! 123
 New line
