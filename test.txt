@@ -1,3 +1,4 @@
+1
 String appear first from local
 Another string from local after remote changes.
 String from local after remote changes.
