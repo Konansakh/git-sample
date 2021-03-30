@@ -1,4 +1,4 @@
-Hello Git! 123
+Hello Git!
 New line
 Add new line.
 lalala
